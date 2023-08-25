@@ -1,7 +1,6 @@
 version log
 
-completely failed in previous version
-(Test AR 001) because of webcam.js file error
+works in previous version
 
-nothing changed in unity
-only webcam.js file changed
+add directional light in simple demo scene
+screenToWorld pos.x .y 수정
