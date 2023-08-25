@@ -1,11 +1,7 @@
 version log
 
-magenta problem in previous versions
+problem solved in previous version (004)
 
-try add prefabs
-(to solve magenta problem)
-
-screenToWorld .y * -1로 다시 수정
-
-
-오브젝트 생성되면 카메라 보도록 추가
+version 005:
+disable debug console
+screenToWorld .y -3
