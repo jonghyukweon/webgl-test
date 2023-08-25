@@ -1,0 +1,7 @@
+version log
+
+completely failed in previous version
+(Test AR 001) because of webcam.js file error
+
+nothing changed in unity
+only webcam.js file changed
