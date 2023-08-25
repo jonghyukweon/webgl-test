@@ -1,6 +1,11 @@
 version log
 
-works in previous version
+magenta problem in previous versions
 
-add directional light in simple demo scene
-screenToWorld pos.x .y 수정
+try add prefabs
+(to solve magenta problem)
+
+screenToWorld .y * -1로 다시 수정
+
+
+오브젝트 생성되면 카메라 보도록 추가
