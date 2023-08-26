@@ -1,7 +1,7 @@
 version log
 
-problem solved in previous version (004)
+boot scene 안 보이게 검은색 이미지 처리
 
-version 005:
-disable debug console
-screenToWorld .y -3
+simple scene에서 refresh 버튼이랑 web url 버튼만 나옴
+object handler
+btn handler 다 추가
