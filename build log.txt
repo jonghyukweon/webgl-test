@@ -1,7 +1,5 @@
 version log
 
-qr scan ar test 010
+qr scan ar test 011
 
-- LastOrDefault로 변경
-- 웹캠 정보 로그 찍어보기
-- width와 height 변경
+-로그 여러가지 찍어보기
