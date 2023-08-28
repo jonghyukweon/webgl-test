@@ -1,7 +1,5 @@
 version log
 
-qr scan ar test 008
+qr scan ar test 009
 
-다시 first or default 함수로
-player settings resolution에 width 1080 height 1920으로 바꿈
-
+isFrontFacing == false인 카메라 로그 찍어보기
