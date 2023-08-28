@@ -1,5 +1,7 @@
 version log
 
-qr scan ar test 009
+qr scan ar test 010
 
-isFrontFacing == false인 카메라 로그 찍어보기
+- LastOrDefault로 변경
+- 웹캠 정보 로그 찍어보기
+- width와 height 변경
