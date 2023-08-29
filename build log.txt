@@ -1,5 +1,5 @@
 version log
 
-qr scan ar test 011
+qr scan ar test 012
 
--로그 여러가지 찍어보기
+-webcam.js draw함수 수정(하드코딩 임시 확인용)
