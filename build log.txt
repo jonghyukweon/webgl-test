@@ -1,11 +1,5 @@
 version log
 
-<<<<<<< HEAD
-qr scan ar test 015
+qr scan test refresh and version 016
 
--maybe original webcam.js file
-=======
-qr scan ar test 012
-
--webcam.js draw함수 수정(하드코딩 임시 확인용)
->>>>>>> parent of 4460136 (qr scan ar test 013)
+- go back to older version 13
