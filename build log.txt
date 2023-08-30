@@ -1,5 +1,5 @@
 version log
 
-qr scan test refresh and version 016
+qr scan test version 017
 
-- go back to older version 13
+- delete data part
