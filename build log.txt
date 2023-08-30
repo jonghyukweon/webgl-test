@@ -1,5 +1,5 @@
 version log
 
-qr scan ar test 014
+qr scan ar test 015
 
--test in original webcam.js file
+-maybe original webcam.js file
